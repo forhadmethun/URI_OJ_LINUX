@@ -24,39 +24,32 @@ typedef map<string, int> msi;
 #define F(i,n) for(int i=0;i<(n);++i)
 #define FR(i,a,b) for(int i=(a);i>=(b);--i)
 
-int main(){
-    //uri 1160
+
+int main()
+{
     freopen("D:\\googleDrive\\_CSE\\_dayWise_work\\2016\\july_august_september_oct_nov_dec\\Oct\\URI_BEGINNER\\in.txt","r",stdin);
-    int tc;
-    scanf("%d",&tc);
-    while(tc--){
-        float a,b,pa,pb,cura,curb;
-        cin >> a >> b >> pa >> pb;
-        cura = a;
-        curb = b;
-        int count = 1;
-        while(true){
-            if(count>100){
-                break;
-            }
-            cura =float( int(cura+ cura * ( pa/100.0)));
-            curb =float(int(curb+ curb * ( pb/100.0)));
-
-           // cout << "cura: " << cura << " curb: " << curb << endl;
-            if(cura<=curb){
-                count++;
-            }
-            else{
-                break;
-            }
-
+    //1873
+    int test_case;
+    scanf("%d\n",&test_case);
+    while(test_case--)
+    {
+        string first, second;
+        //getline(cin,first);
+        //getline(cin,second);
+        cin >> first >> second;
+        if(first == second){
+            cout << "empate" << endl;
         }
-        if(count <=100){
-            printf("%d anos.\n",count);
+        else if((first == "tesoura" && second == "paper") || (first == "papel" && second =="pedra") || (first == "pedra" && second =="lagarto") || (first == "lagarto" && second =="spock") || (first == "spock" && second =="tesoura") || (first == "spock" && second =="lagarto") || (first == "tesoura" && second =="lagarto") || (first == "lagarto" && second =="papel") || (first == "papel" && second =="spock") || (first == "spock" && second =="pedra") || (first == "pedra" && second =="tesoura")){
+            cout << "rajesh" << endl;
         }
         else{
-            printf("Mais de 1 seculo.\n");
+            cout << "sheldon" << endl;
         }
-        //cout << "-------------------------" <<  count << endl;
     }
+
+
+    return 0;
 }
+
+

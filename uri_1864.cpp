@@ -25,38 +25,20 @@ typedef map<string, int> msi;
 #define FR(i,a,b) for(int i=(a);i>=(b);--i)
 
 int main(){
-    //uri 1160
     freopen("D:\\googleDrive\\_CSE\\_dayWise_work\\2016\\july_august_september_oct_nov_dec\\Oct\\URI_BEGINNER\\in.txt","r",stdin);
-    int tc;
-    scanf("%d",&tc);
-    while(tc--){
-        float a,b,pa,pb,cura,curb;
-        cin >> a >> b >> pa >> pb;
-        cura = a;
-        curb = b;
-        int count = 1;
-        while(true){
-            if(count>100){
-                break;
-            }
-            cura =float( int(cura+ cura * ( pa/100.0)));
-            curb =float(int(curb+ curb * ( pb/100.0)));
+    string str = "LIFE IS NOT A PROBLEM TO BE SOLVED";
+    int n;
+    cin>> n;
+   // while(cin >> n){
+        for(int i=0;i<n;i++){
+            cout << str[i] ;
+        }
+   // cout << "--strlen: " << str.length() << endl;
 
-           // cout << "cura: " << cura << " curb: " << curb << endl;
-            if(cura<=curb){
-                count++;
-            }
-            else{
-                break;
-            }
+    cout <<  endl;
+   // }
 
-        }
-        if(count <=100){
-            printf("%d anos.\n",count);
-        }
-        else{
-            printf("Mais de 1 seculo.\n");
-        }
-        //cout << "-------------------------" <<  count << endl;
-    }
+
+    return 0;
 }
+

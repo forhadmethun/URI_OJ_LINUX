@@ -24,39 +24,17 @@ typedef map<string, int> msi;
 #define F(i,n) for(int i=0;i<(n);++i)
 #define FR(i,a,b) for(int i=(a);i>=(b);--i)
 
-int main(){
-    //uri 1160
+
+int main()
+{
     freopen("D:\\googleDrive\\_CSE\\_dayWise_work\\2016\\july_august_september_oct_nov_dec\\Oct\\URI_BEGINNER\\in.txt","r",stdin);
-    int tc;
-    scanf("%d",&tc);
-    while(tc--){
-        float a,b,pa,pb,cura,curb;
-        cin >> a >> b >> pa >> pb;
-        cura = a;
-        curb = b;
-        int count = 1;
-        while(true){
-            if(count>100){
-                break;
-            }
-            cura =float( int(cura+ cura * ( pa/100.0)));
-            curb =float(int(curb+ curb * ( pb/100.0)));
+    //1959
+    unsigned long long a,b;
+    cin >> a >> b;
+    cout << a * b << endl;
 
-           // cout << "cura: " << cura << " curb: " << curb << endl;
-            if(cura<=curb){
-                count++;
-            }
-            else{
-                break;
-            }
 
-        }
-        if(count <=100){
-            printf("%d anos.\n",count);
-        }
-        else{
-            printf("Mais de 1 seculo.\n");
-        }
-        //cout << "-------------------------" <<  count << endl;
-    }
+    return 0;
 }
+
+

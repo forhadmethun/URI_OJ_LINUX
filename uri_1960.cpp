@@ -23,40 +23,81 @@ typedef map<string, int> msi;
 #define FA(i,a,b) for(int i=(a);i<=(b);++i)
 #define F(i,n) for(int i=0;i<(n);++i)
 #define FR(i,a,b) for(int i=(a);i>=(b);--i)
+string replace_with_nine_hundred(string roman)
+{
 
-int main(){
-    //uri 1160
-    freopen("D:\\googleDrive\\_CSE\\_dayWise_work\\2016\\july_august_september_oct_nov_dec\\Oct\\URI_BEGINNER\\in.txt","r",stdin);
-    int tc;
-    scanf("%d",&tc);
-    while(tc--){
-        float a,b,pa,pb,cura,curb;
-        cin >> a >> b >> pa >> pb;
-        cura = a;
-        curb = b;
-        int count = 1;
-        while(true){
-            if(count>100){
-                break;
-            }
-            cura =float( int(cura+ cura * ( pa/100.0)));
-            curb =float(int(curb+ curb * ( pb/100.0)));
-
-           // cout << "cura: " << cura << " curb: " << curb << endl;
-            if(cura<=curb){
-                count++;
-            }
-            else{
-                break;
-            }
-
-        }
-        if(count <=100){
-            printf("%d anos.\n",count);
-        }
-        else{
-            printf("Mais de 1 seculo.\n");
-        }
-        //cout << "-------------------------" <<  count << endl;
-    }
 }
+
+int main()
+{
+    freopen("D:\\googleDrive\\_CSE\\_dayWise_work\\2016\\july_august_september_oct_nov_dec\\Oct\\URI_BEGINNER\\in.txt","r",stdin);
+    //1960
+    int input_number;
+    cin >> input_number;
+    string roman = "";
+    while(input_number!=0)
+    {
+        if(input_number>=900){
+            input_number-=900;
+            roman+="CM";
+        }
+        else if(input_number>=500){
+            roman+="D";
+            input_number-=500;
+        }
+        else if(input_number>=400){
+            roman+="CD";
+            input_number-=400;
+        }
+        else if(input_number>=100){
+            roman+="C";
+            input_number-=100;
+        }
+        else if(input_number>=90){
+            roman+="XC";
+            input_number-=90;
+        }
+        else if(input_number>=50){
+            roman+="L";
+            input_number-=50;
+
+        }
+        else if(input_number>=40){
+            roman+="XL";
+            input_number-=40;
+
+        }
+        else if(input_number>=10){
+            roman+="X";
+            input_number-=10;
+
+        }
+        else if(input_number>=9){
+            roman+="IX";
+            input_number-=9;
+        }
+        else if(input_number>=5){
+            roman+="V";
+            input_number-=5;
+        }
+        else if(input_number>=4){
+            roman+="IV";
+            input_number-=4;
+        }
+        else if(input_number>=1){
+            roman+="I";
+            input_number-=1;
+
+        }
+        //cout<< roman << "--" << input_number << endl;
+        if(input_number<=0)break;
+
+
+    }
+    cout<< roman << endl;//"--" << input_number << endl;
+
+
+    return 0;
+}
+
+

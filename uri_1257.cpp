@@ -24,39 +24,46 @@ typedef map<string, int> msi;
 #define F(i,n) for(int i=0;i<(n);++i)
 #define FR(i,a,b) for(int i=(a);i>=(b);--i)
 
-int main(){
-    //uri 1160
+
+int main()
+{
     freopen("D:\\googleDrive\\_CSE\\_dayWise_work\\2016\\july_august_september_oct_nov_dec\\Oct\\URI_BEGINNER\\in.txt","r",stdin);
-    int tc;
-    scanf("%d",&tc);
-    while(tc--){
-        float a,b,pa,pb,cura,curb;
-        cin >> a >> b >> pa >> pb;
-        cura = a;
-        curb = b;
-        int count = 1;
-        while(true){
-            if(count>100){
-                break;
-            }
-            cura =float( int(cura+ cura * ( pa/100.0)));
-            curb =float(int(curb+ curb * ( pb/100.0)));
-
-           // cout << "cura: " << cura << " curb: " << curb << endl;
-            if(cura<=curb){
-                count++;
-            }
-            else{
-                break;
-            }
-
-        }
-        if(count <=100){
-            printf("%d anos.\n",count);
-        }
-        else{
-            printf("Mais de 1 seculo.\n");
-        }
-        //cout << "-------------------------" <<  count << endl;
+    //1257
+    map<char,int> map_character_to_integer;
+    for(int i=0;i<26;i++){
+        map_character_to_integer['A' + i ] = i;
     }
+
+    int test_case;
+    scanf("%d\n",&test_case);
+    for(int i=0;i<test_case;i++){
+        int how_many_input;
+        scanf("%d\n",&how_many_input);
+        int sum = 0;
+
+        for (int j = 0; j <how_many_input ; ++j) {
+            string str;
+            getline(cin,str);
+            //cout << j << ":- " << str << endl;
+            for(int k=0;k<str.length();k++){
+                sum+=k+j+map_character_to_integer[str[k]];
+
+            }
+            //  cout << "---> sum : -- " << sum << endl;
+
+
+        }
+        cout << sum << endl;
+
+
+
+
+    }
+
+
+
+
+    return 0;
 }
+
+

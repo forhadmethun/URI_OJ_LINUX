@@ -19,6 +19,8 @@ int main(){
     }
     else{
         cout << "Not pyth" << endl;
+
+        cout <<"";
     }
 
 

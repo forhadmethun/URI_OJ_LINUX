@@ -53,25 +53,26 @@ typedef map<string, int> msi;
 #define FR(i,a,b) for(int i=(a);i>=(b);--i)
 
 
-bool isPossible(int a,int b,int c)
-{
-    if( a== b || b== c|| a == c)return true;
-    else if(  a+b == c || b+c ==  a || c + a == b )return true;
-    return false;
-}
-
-
-
 int main()
 {
     //freopen("D:\googleDrive\_CSE\_dayWise_work\2016\july_august_september_oct_nov_dec\Oct\URI_BEGINNER\in.txt","r",stdin);
-    int a,b,c;
-    make(a,b,c);
-    if(isPossible(a,b,c)){
-        cout << "S" << endl;
-    }
-    else cout << "N" << endl;
+    freopen("D:\\googleDrive\\_CSE\\_dayWise_work\\2016\\july_august_september_oct_nov_dec\\Oct\\URI_BEGINNER\\in.txt","r",stdin);
+    map<int,float> mif;
+    mif[1001] = 1.50;
+    mif[1002] = 2.50;
+    mif[1003] = 3.50;
+    mif[1004] = 4.50;
+    mif[1005] = 5.50;
 
+    int n;
+    cin >> n;
+    float sum = 0;
+    while(n--){
+        int id,amount;
+        cin >> id >> amount;
+        sum+=mif[id]*amount;
+    }
+    cout <<fixed << setprecision(2) <<  sum << endl;
 
 
     return 0;

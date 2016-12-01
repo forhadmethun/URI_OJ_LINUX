@@ -2,34 +2,44 @@
 using namespace std;
 
 int main(){
-    //uri 1898
+    //uri 1519
     freopen("/home/forhadmethun/Documents/OJ/URI_BEGINNER/in.txt","r",stdin);
-    string str1,str2;
-    string ans1 = "",ans2 = "";
-    string ans1_extra = "";
-    cin>> str1 >> str2;
+    string str;
+    while(getline(cin,str)){
+        if(str == ".")break;
+        stringstream ss(str);
+        string temp;
+        vector<string> vs;
+        map<string, string> mss;
+        while(ss >> temp){
+            vs.push_back(temp);
 
+        }
 
-    for(int i=0;i<(int) str1.length();i++){
-        if(str1[i]>='0' && str1[i] <='9' || str1[i] == '.'){
-            if((int)ans1.length()<11)
-            ans1+=str1[i];
+        for(auto it=vs.begin();it!=vs.end();it++){
+            if(it!=vs.begin()){
+                cout << " ";
+            }
+            if((*it).length() <=3){
+             cout << *it;
+            }
             else{
-                ans1_extra+=str1[i];
+                string temp  = "";temp +=(*it)[0];
+                temp+=".";
+                cout << temp;// << ".";
+                mss[temp] = *it;
+
             }
         }
-    }
-    for(int i=0;i<(int)str2.length();i++){
-        if(str2[i]>='0' && str2[i] <='9' || str2[i] == '.'){
-            ans2+=str2[i];
+        cout <<endl  <<  mss.size() << endl;
+        for(auto it=mss.begin();it!=mss.end();it++){
+            cout << it->first  << " = " << it->second << endl;
         }
+
+
+        cout << endl;
+
+
     }
-    double d1 = (double)((floor)(stod(ans1_extra) * 100))/100;
-    double d2 = (double)((floor)(stod(ans2) * 100))/100;
-
-
-    cout <<"cpf "<< ans1 << setprecision(2) << fixed<<  "\n" << d1 + d2 << endl;
-
-
     return 0;
 }

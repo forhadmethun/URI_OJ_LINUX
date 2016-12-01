@@ -15,189 +15,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4df1051-14f8-4383-9152-d25635b9b695" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Uri_1193Cpp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Uri_1193Cpp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Uri_1193Cpp.sig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urI_1037.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urI_1047.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urI_1052.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urI_1078.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1008.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1009.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1010.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1011.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1012.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1013.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1014.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1015.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1017.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1018.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1019.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1020.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1022.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1024.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1025.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1026.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1028.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1030.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1035.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1036.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1038.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1041.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1042.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1043.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1044.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1045.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1046.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1048.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1049.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1050.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1059.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1060.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1064.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1065.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1066.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1067.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1068.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1069.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1070.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1071.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1072.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1073.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1074.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1075.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1079.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1080.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1085.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1086.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1087.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1094.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1095.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1096.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1097.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1098.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1099.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1101.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1103.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1113.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1114.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1115.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1116.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1117.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1118.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1120.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1131.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1132.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1133.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1134.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1142.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1143.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1144.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1145.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1146.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1149.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1150.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1151.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1153.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1154.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1155.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1156.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1157.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1158.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1159.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1160.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1164.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1165.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1168.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1170.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1172.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1173.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1174.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1175.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1176.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1177.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1178.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1179.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1180.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1181.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1182.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1183.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1184.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1192.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1197.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1198.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_11_challenge.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1202.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1212.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1214.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1219.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1221.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1234.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1235.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1237.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1238.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1239.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1240.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1241.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1248.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1249.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1253.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1254.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1257.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1259.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1262.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1263.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1272.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1273.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1276.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1277.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1278.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1309.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1323.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1332.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1435.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1457.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1534.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1541.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1551.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1555.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1557.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1564.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1581.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1589.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1607.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1759.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1763.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1768.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1803.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1847.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1855.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1858.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1864.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1871.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1873.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1933.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1958.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1959.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1960.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_1985.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_2.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_2137.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_2157.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_2174.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_2232.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_2234.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_2235.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_2242.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_3.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_4.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_5.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uri_7.cpp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Done/uri_2232.cpp" afterPath="$PROJECT_DIR$/Done/uri_2232.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Done/uri_2234.cpp" afterPath="$PROJECT_DIR$/Done/uri_2234.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Done/uri_2235.cpp" afterPath="$PROJECT_DIR$/Done/uri_2235.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Done/uri_2242.cpp" afterPath="$PROJECT_DIR$/Done/uri_2242.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uri_1898.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uri_2108.cpp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.m" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/in.txt" afterPath="$PROJECT_DIR$/in.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.cpp" afterPath="$PROJECT_DIR$/main.cpp" />
     </list>
     <ignored path="URI_BEGINNER.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -219,11 +42,41 @@
     <splitter split-orientation="horizontal" split-proportion="0.64254194">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+          <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/main.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="14" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="14" />
+                <state relative-caret-position="330">
+                  <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="uri_1898.cpp" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/uri_1898.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-225">
+                  <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="uri_2108.cpp" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/uri_2108.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -246,8 +99,8 @@
           <file leaf-file-name="in.txt" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/in.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+                <state relative-caret-position="15">
+                  <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
                   <folding />
                 </state>
               </provider>
@@ -258,6 +111,7 @@
     </splitter>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -373,16 +227,16 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="D:\googleDrive\_CSE\_dayWise_work\2016\july_august_september_oct_nov_dec\Oct\URI_BEGINNER" />
+      <recent name="D:\googleDrive\_CSE\_dayWise_work\2016\july_august_september_oct_nov_dec\Oct\URI_BEGINNER\Library" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Done" />
       <recent name="$PROJECT_DIR$/unsolved" />
       <recent name="D:\googleDrive\_CSE\_dayWise_work\2016\july_august_september_oct_nov_dec\Oct\URI_BEGINNER\unsolved" />
       <recent name="D:\googleDrive\_CSE\_dayWise_work\2016\july_august_september_oct_nov_dec\Oct\URI_BEGINNER\Done" />
-      <recent name="D:\googleDrive\_CSE\_dayWise_work\2016\july_august_september_oct_nov_dec\Oct\URI_BEGINNER\Library" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="D:\googleDrive\_CSE\_dayWise_work\2016\july_august_september_oct_nov_dec\Oct\URI_BEGINNER" />
       <recent name="D:\googleDrive\_CSE\_dayWise_work\2016\july_august_september_oct_nov_dec\Oct\URI_BEGINNER\Library" />
     </key>
   </component>
@@ -596,7 +450,7 @@
       <workItem from="1479361295385" duration="601000" />
       <workItem from="1479910649695" duration="1619000" />
       <workItem from="1479890699246" duration="23246000" />
-      <workItem from="1480481425349" duration="1471000" />
+      <workItem from="1480481425349" duration="6393000" />
     </task>
     <task id="LOCAL-00001" summary="TestMessage">
       <created>1480481765067</created>
@@ -609,23 +463,23 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105013000" />
+    <option name="totallyTimeSpent" value="109935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="24" width="1317" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19242658" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32662538" sideWeight="0.49734244" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5247678" sideWeight="0.33462134" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972136" sideWeight="0.4953632" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.50463676" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.4953632" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5247678" sideWeight="0.6653787" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993808" sideWeight="0.49381763" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -673,32 +527,11 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="34" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Done/uri_2147.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Done/uri_2152.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Done/uri_2160.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Done/uri_2159.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -998,7 +831,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/in.txt">
+    <entry file="file://$PROJECT_DIR$/Done/uri_1254.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1006,7 +839,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Done/uri_1254.cpp">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1016,8 +857,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="330">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uri_2108.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uri_1898.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding />
         </state>
       </provider>

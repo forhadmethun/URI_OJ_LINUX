@@ -14,7 +14,9 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4df1051-14f8-4383-9152-d25635b9b695" name="Default" comment="11:08PM01:12:16">
+    <list default="true" id="b4df1051-14f8-4383-9152-d25635b9b695" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="URI_BEGINNER.iws" />
@@ -27,7 +29,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -37,34 +39,12 @@
     <splitter split-orientation="horizontal" split-proportion="0.595122">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+          <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/main.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+                <state relative-caret-position="75">
+                  <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="0">
-                    <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                    <folding />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-              <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="0">
-                    <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                    <folding />
-                  </first_editor>
-                  <second_editor />
                 </state>
               </provider>
             </entry>
@@ -437,7 +417,7 @@
       <workItem from="1479890699246" duration="23246000" />
       <workItem from="1480481425349" duration="10496000" />
       <workItem from="1480598872293" duration="3321000" />
-      <workItem from="1480992778984" duration="103000" />
+      <workItem from="1480992778984" duration="1008000" />
     </task>
     <task id="LOCAL-00001" summary="TestMessage">
       <created>1480481765067</created>
@@ -474,11 +454,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480612156099</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="02:55AM06:12:16">
+      <created>1480992923902</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1480992923902</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117462000" />
+    <option name="totallyTimeSpent" value="118367000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -547,7 +534,8 @@
     <MESSAGE value="URIOJPROBLEMSOLVING" />
     <MESSAGE value="6:45:55:01:12:16" />
     <MESSAGE value="11:08PM01:12:16" />
-    <option name="LAST_COMMIT_MESSAGE" value="11:08PM01:12:16" />
+    <MESSAGE value="02:55AM06:12:16" />
+    <option name="LAST_COMMIT_MESSAGE" value="02:55AM06:12:16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -887,14 +875,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -918,6 +898,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+          <folding />
         </state>
       </provider>
     </entry>

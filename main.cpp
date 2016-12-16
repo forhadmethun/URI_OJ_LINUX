@@ -105,25 +105,20 @@ using namespace std;
 #define C printf("Case %d:",tc)
 #define debug printf("\nDEBUG\n");
 
-#define fi  freopen("/home/forhadmethun/Documents/OJ/URI/in.txt","r",stdin);
+#define fi  freopen("//home/forhadmethun/ClionProjects/URI_OJ_LINUX/in.txt","r",stdin);
 #define fo freopen("out.txt","w",stdout);
 
 
 int main(int argc, char const *argv[]) {
-    fi
+    //fi
+    printf("hello");
 
-    double x,y;
-    int tc = 1;
-    while(scanf("%lf%lf\n",&x,&y) == 2){
-        printf("Projeto %d:\n"
-                       "Percentual dos juros da aplicacao: %0.2lf %\n",tc++,((y-x)/(x)) * 100);
-        printf("\n");
-    }
+
 
     return 0;
 }
 
 ///Writer  : Md ForHad Hossain Methun
-///Problem : URI 2170
-///Time    :6, Dec,2017( 11.06AM - 11.15AM )
+///Problem :
+///Time    :
 

@@ -1,4 +1,10 @@
-#include "DS/isParenthesesBalanaced.cpp"
+#include "Done/uri_1267.cpp"
+//#include "unsolved/uri_1383.cpp"
+//#include "uri_1256.cpp"
+//#include "Done/uri_1250.cpp"
+//#include "BitMagic/Parity.cpp"
+//#include "BitMagic/CountSetBits.cpp"
+//#include "BitMagic/ReverseBitOfANumber.cpp"
 //#include<bits/stdc++.h>
 //using namespace std;
 //
